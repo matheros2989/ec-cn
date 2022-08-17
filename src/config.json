@@ -1,0 +1,7 @@
+{
+    "token": "bot token",
+    "prefix": "bot prefix",
+    "mongo": "mongoUrl",
+    "id": "bot owner id",
+    "emoji": "Discord emoji id"
+}
